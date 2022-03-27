@@ -14,9 +14,9 @@ I have a youtube channel :movie_camera: where i post content about Linux rice an
 - Database that I know **![Oracle](https://img.shields.io/badge/-Oracle-e02427?&logo=oracle&logoColor=white&style=flat) ![Firestore](https://img.shields.io/badge/-Firestore-FFFFFF?&logo=firebase&style=flat) ![Sqlite3](https://img.shields.io/badge/-SQLite3-3e9bd5?&logo=sqlite&style=flat)**
 - Currently Learning **![Web Assembly](https://img.shields.io/badge/-WebAssembly-FFFFFF?&logo=webassembly&style=flat) ![Rust](https://img.shields.io/badge/-Rust-black?&logo=rust&style=flat)**
 ## :mailbox: Social
-- You can contact me to nojipiz@protonmail.com or nojipz@gmail.com.
-- My Discord username Nojipiz#5000 <img src="https://emojis.slackmojis.com/emojis/images/1643515023/10521/meow_code.gif?1643515023" width="25"/>
-- My <a href="https://www.youtube.com/channel/UCOm89pVHLTfl8jfzCYm6gew"  align=center>Youtube channel</a> :movie_camera:
+- Mail: nojipiz@protonmail.com or nojipiz@gmail.com.
+- Discord: Nojipiz#5000 
+- <a href="https://www.youtube.com/channel/UCOm89pVHLTfl8jfzCYm6gew"  align=center>Youtube</a>: Nojipiz
 <!-- 
 Inspired by [UsboKirishima](https://github.com/UsboKirishima) 
 -->
