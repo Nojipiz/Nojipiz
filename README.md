@@ -14,4 +14,7 @@ I have a youtube channel :movie_camera: where i post content about Linux rice an
 - Database that I know **![Oracle](https://img.shields.io/badge/-Oracle-e02427?&logo=oracle&logoColor=white&style=flat) ![Firestore](https://img.shields.io/badge/-Firestore-FFFFFF?&logo=firebase&style=flat) ![Sqlite3](https://img.shields.io/badge/-SQLite3-3e9bd5?&logo=sqlite&style=flat)**
 - Currently Learning **![Web Assembly](https://img.shields.io/badge/-WebAssembly-FFFFFF?&logo=webassembly&style=flat) ![Rust](https://img.shields.io/badge/-Rust-black?&logo=rust&style=flat)**
 
-_Inspired by [UsboKirishima](https://github.com/UsboKirishima)_
+<!-- 
+Inspired by [UsboKirishima](https://github.com/UsboKirishima) 
+-->
+
