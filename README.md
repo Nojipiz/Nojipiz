@@ -11,7 +11,7 @@ I have a youtube channel :movie_camera: where i post content about Linux rice an
 - Front-end development using **![React](https://img.shields.io/badge/-React-FFFFFF?&logo=react&style=flat) ![HTML](https://img.shields.io/badge/-HTML-dd4b25?&logo=html5&logoColor=white) ![Javascript](https://img.shields.io/badge/-Javascript-white?&logo=javascript&logoColor=ffcc00&style=flat) ![CSS](https://img.shields.io/badge/-CSS-blue?&logo=css3&style=flat)**
 - Backend development using **![Express](https://img.shields.io/badge/-Express-black?&logo=express&style=flat) ![Spring](https://img.shields.io/badge/-Spring-65b743?&logo=spring&logoColor=white&style=flat)** 
 - Mobile development for **![Android](https://img.shields.io/badge/-Android-30d780?&logo=android&logoColor=white&style=flat)** 
-- Database that I know **![Sqlite3](https://img.shields.io/badge/-SQLite3-3e9bd5?&logo=sqlite&style=flat) ![Firestore](https://img.shields.io/badge/-Firestore-FFFFFF?&logo=firebase&style=flat) ![Oracle](https://img.shields.io/badge/-Oracle-e02427?&logo=oracle&logoColor=white&style=flat)**
+- Database that I know **![Oracle](https://img.shields.io/badge/-Oracle-e02427?&logo=oracle&logoColor=white&style=flat) ![Firestore](https://img.shields.io/badge/-Firestore-FFFFFF?&logo=firebase&style=flat) ![Sqlite3](https://img.shields.io/badge/-SQLite3-3e9bd5?&logo=sqlite&style=flat)**
 - Currently Learning **![Web Assembly](https://img.shields.io/badge/-WebAssembly-FFFFFF?&logo=webassembly&style=flat) ![Rust](https://img.shields.io/badge/-Rust-black?&logo=rust&style=flat)**
 
 
