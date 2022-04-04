@@ -1,10 +1,12 @@
-"data": [
-  {
-    "title": "Project 1 Title",
-    "description": "This project has been made with first tech stack..."
-  },
-   {
-    "title": "Project 2 Title",
-    "description": "This project has been made with second tech stack..."
-  }
-]
+{
+  "data": [
+    {
+      "title": "Project 1 Title",
+      "description": "This project has been made with first tech stack..."
+    },
+    {
+      "title": "Project 2 Title",
+      "description": "This project has been made with second tech stack..."
+    }
+  ]
+}
