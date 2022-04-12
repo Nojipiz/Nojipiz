@@ -4,13 +4,13 @@
       "title": "Project 1 Title",
       "title_es": "Proyecto Numnero 1",
       "description": "This project has been made with first tech stack...",
-      "description_es": "Este proyecto fué hecho con estas tecnologias...",
+      "description_es": "Este proyecto fué hecho con estas tecnologias..."
     },
     {
       "title": "Project 2 Title",
       "title_es":"Proyecto Numero 2",
       "description": "This project has been made with second tech stack...",
-      "description_es": "Este proyecto fué hecho con estas otras tecnologias...",
+      "description_es": "Este proyecto fué hecho con estas otras tecnologias..."
     }
   ]
 }
