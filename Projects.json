@@ -4,13 +4,15 @@
       "title": "Project 1 Title",
       "title_es": "Proyecto Numnero 1",
       "description": "This project has been made with first tech stack...",
-      "description_es": "Este proyecto fué hecho con estas tecnologias..."
+      "description_es": "Este proyecto fué hecho con estas tecnologias...",
+      "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Google_Photos_icon_%282020%29.svg/800px-Google_Photos_icon_%282020%29.svg.png"
     },
     {
       "title": "Project 2 Title",
       "title_es":"Proyecto Numero 2",
       "description": "This project has been made with second tech stack...",
-      "description_es": "Este proyecto fué hecho con estas otras tecnologias..."
+      "description_es": "Este proyecto fué hecho con estas otras tecnologias...",
+      "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Google_Photos_icon_%282020%29.svg/800px-Google_Photos_icon_%282020%29.svg.png"
     }
   ]
 }
