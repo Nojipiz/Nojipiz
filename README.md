@@ -1,5 +1,5 @@
 # Hello World! <img src="https://blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif" width="30"/>
-Hi I'm <b>Orlando</b>, I'm a freelancer 💻 <b>Software Developer</b>, :student: student of <b>Systems Engineering and Computing</b> at <a href="https://www.uptc.edu.co/sitio/portal/" target="_blank"> UPTC </a>,:student: student of <b>Systems Analyst & Development</b> at <a href="https://www.sena.edu.co" target="_blank"> SENA </a> and <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/1200px-Archlinux-icon-crystal-64.svg.png" width="18"/> <b>ArchLinux</b> enthusiast.
+Hi I'm <b>Orlando</b>, I'm a freelancer 💻 <b>Software Developer</b>, :student: student of <b>Systems Engineering and Computing</b> at <a href="https://www.uptc.edu.co/sitio/portal/" target="_blank"> UPTC and <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/1200px-Archlinux-icon-crystal-64.svg.png" width="18"/> <b>ArchLinux</b> enthusiast.
 
 
 ## 🔍 About me
