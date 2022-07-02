@@ -5,14 +5,16 @@
       "title_es": "Proyecto Numnero 1",
       "description": "This project has been made with first tech stack...",
       "description_es": "Este proyecto fué hecho con estas tecnologias...",
-      "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Google_Photos_icon_%282020%29.svg/800px-Google_Photos_icon_%282020%29.svg.png"
+      "background_img": "https://i0.wp.com/hipertextual.com/wp-content/uploads/2021/06/Google-Imagenes-Main-Site.jpg?fit=2000%2C1333&ssl=1",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Google_Photos_icon_%282020%29.svg/800px-Google_Photos_icon_%282020%29.svg.png"
     },
     {
       "title": "Project 2 Title",
-      "title_es":"Proyecto Numero 2",
+      "title_es": "Proyecto Numero 2",
       "description": "This project has been made with second tech stack...",
       "description_es": "Este proyecto fué hecho con estas otras tecnologias...",
-      "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Google_Photos_icon_%282020%29.svg/800px-Google_Photos_icon_%282020%29.svg.png"
+      "background_img": "https://i0.wp.com/hipertextual.com/wp-content/uploads/2021/06/Google-Imagenes-Main-Site.jpg?fit=2000%2C1333&ssl=1",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Google_Photos_icon_%282020%29.svg/800px-Google_Photos_icon_%282020%29.svg.png"
     }
   ]
 }
