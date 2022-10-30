@@ -13,8 +13,8 @@
       "title_es": "Dispensador de materiales Ferropaz",
       "description": "One of my first mobile applications, it was a great success in downloads considering the context of the store, it is a calculator for materials that can be purchased in the store, in this way customers can make their purchases with greater precision, It was built on native Kotlin sticking to the style and colors of the brand, with the premise of being as light and versatile as possible.",
       "description_es": "Una de mis primeras aplicaciones móviles, fué un gran éxito en descargas teniendo en cuenta el contexto de la tienda, se trata de una calculadora para materiales que se pueden comprar en la tienda, de esta forma los clientes pueden hacer sus compras con mayor precisión, fué construida sobre Kotlin nativo apegándose a el estilo y colores de la marca, con la premisa de ser lo más ligera y versátil posible.",
-      "background_img": "https://i0.wp.com/hipertextual.com/wp-content/uploads/2021/06/Google-Imagenes-Main-Site.jpg?fit=2000%2C1333&ssl=1",
-      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Google_Photos_icon_%282020%29.svg/800px-Google_Photos_icon_%282020%29.svg.png"
+      "background_img": "https://github.com/Nojipiz/Nojipiz/blob/main/projects_images/ferropazfondo.png?raw=true",
+      "img": "https://github.com/Nojipiz/Nojipiz/blob/main/projects_images/ferropazmobile.png?raw=true"
     }
   ]
 }
